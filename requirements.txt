@@ -1,0 +1,5 @@
+Pillow==10.0.0
+pytesseract==0.3.10
+pyautogui==0.9.53
+nltk==3.8.1
+PyQt6==6.6.0
